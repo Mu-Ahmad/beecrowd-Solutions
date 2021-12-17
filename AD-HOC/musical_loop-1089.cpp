@@ -19,7 +19,7 @@ int main(){
 			and wave[(i+1)%n] < wave[i]) peak++;		
 		}
 
-	cout << peak << '\n';
+		cout << peak << '\n';
 	}
 	return 0;
 }
